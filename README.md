@@ -28,6 +28,7 @@ Este é um projeto desenvolvido em **Vue.js** para gerenciar tarefas. Ele permit
 ## ⚙️ Como rodar o projeto
 
 1.  Clone o repositório
+  https://github.com/thaisquirino/meuBext.git
 
 2.Navegue até o diretório do projeto
 
