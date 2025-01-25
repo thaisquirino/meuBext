@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "1234"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Tarefa 1",
+      "description": "Descrição da Tarefa 1",
+      "priority": "Alta",
+      "dueDate": "2025-01-30",
+      "category": "Trabalho"
+    },
+    {
+      "id": 2,
+      "title": "Tarefa 2",
+      "description": "Descrição da Tarefa 2",
+      "priority": "Alta",
+      "dueDate": "2025-02-10",
+      "category": "Pessoal"
+    },
+    {
+      "id": 3,
+      "title": "Tarefa 3",
+      "description": "Descrição da Tarefa 3",
+      "priority": "Baixa",
+      "dueDate": "2025-02-10",
+      "category": "Pessoal"
+    },
+    {
+      "id": 4,
+      "title": "Tarefa 4",
+      "description": "Descrição da Tarefa 4",
+      "priority": "Baixa",
+      "dueDate": "2025-02-10",
+      "category": "Pessoal"
+    },
+    {
+      "id": 5,
+      "title": "Tarefa 5",
+      "description": "Descrição da Tarefa 5",
+      "priority": "Baixa",
+      "dueDate": "2025-02-10",
+      "category": "Trabalho"
+    },
+    {
+      "id": 6,
+      "title": "Tarefa 6",
+      "description": "Descrição da Tarefa 6",
+      "priority": "Baixa",
+      "dueDate": "2025-02-10",
+      "category": "Pessoal"
+    },
+    {
+      "id": 7,
+      "title": "Tarefa 7",
+      "description": "Descrição da Tarefa",
+      "priority": "Baixa",
+      "dueDate": "2025-02-10",
+      "category": "Trabalho"
+    }
+  ]
+}

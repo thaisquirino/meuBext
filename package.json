@@ -6,14 +6,17 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "mock-api": "json-server --watch db.json --port 5000"
   },
   "dependencies": {
     "pinia": "^2.3.1",
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
+    "json-server": "^1.0.0-beta.3",
     "sass": "^1.83.4",
     "vite": "^6.0.5"
   }
